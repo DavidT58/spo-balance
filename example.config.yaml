@@ -1,0 +1,9 @@
+pools:
+  - name: SMMIT
+    poolID: pool1plwkxf6t0p2gqg2vr3g2j8xe6wujya0agh0hnf0edps3xy5x0d8
+  - name: PANDA
+    poolID: pool19jvy7hnr78c5nkszac4fkdt4dxduqcct0jmhraak87kmj6q9j4y
+  - name: AETHR
+    poolID: pool12wyrkw9puw9f9h2t5t7977700rugq4wyr7wm0t8hprv8uafzpz3
+  - name: ZEPH
+    poolID: pool1lyjmpzwd3d7t5tjv9rllusxd08uxvfkxyqc2nc7ey800722zhum
