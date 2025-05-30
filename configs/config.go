@@ -13,10 +13,9 @@ type PoolConfig struct {
 }
 
 type Config struct {
-	Pools []PoolConfig `json:"pools"`
+	Pools             []PoolConfig `json:"pools"`
+	BlockFrostAddress string       `json:"blockfrost_address" yaml:"blockfrost_address"`
 }
-
-var storedConfig Config
 
 func LoadConfigFromYAML(filePath string) (Config, error) {
 	file, err := os.Open(filePath)

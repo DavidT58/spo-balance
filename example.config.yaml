@@ -1,3 +1,5 @@
+blockfrost_address: http://185.170.115.3:3033
+
 pools:
   - name: SMMIT
     poolID: pool1plwkxf6t0p2gqg2vr3g2j8xe6wujya0agh0hnf0edps3xy5x0d8

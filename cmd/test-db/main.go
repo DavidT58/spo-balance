@@ -3,8 +3,8 @@ package main
 import (
 	"strconv"
 
-	"github.com/davidt58/spo-balance/internal/database"
-	"github.com/davidt58/spo-balance/internal/models"
+	"spo-data/internal/database"
+	"spo-data/internal/models"
 )
 
 func main() {

@@ -3,7 +3,8 @@ package database
 import (
 	// "database/sql"
 
-	"github.com/davidt58/spo-balance/internal/models"
+	"spo-data/internal/models"
+
 	"gorm.io/gorm"
 
 	// _ "github.com/mattn/go-sqlite3" // SQLite driver
